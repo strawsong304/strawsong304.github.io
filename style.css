@@ -272,6 +272,9 @@ footer li{
          .header-p{
              font-size:10px;
          }
+         .header-p p{
+            font-size:10px;
+}
     }
 
 @media screen
