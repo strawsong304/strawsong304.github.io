@@ -290,3 +290,7 @@ footer li{
              display:none;
          }
     }
+    }
+#first-page{
+     height: 100vh; 
+}
