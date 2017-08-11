@@ -293,4 +293,27 @@ footer li{
     }
 #first-page{
      height: 100vh; 
+     /*background-image: url(https://unsplash.it/1500/650);*/
+    background-image: url("./image/sweet-ice-cream-photography-326552.jpg");
+    width: 100%;
+    background-size:cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top:200px;
+}
+#sec-page{
+     background-color: #f6f6f6;
+    height: 100%;
+    width:  100%;
+     overflow:hidden;
+}
+#sec-page img{
+    height: 50%;
+    width: 50%;
+    padding:0;
+    margin:0;
+     
 }
