@@ -275,22 +275,6 @@ footer li{
          .header-p p{
             font-size:10px;
         }
-         @keyframes typing{
-             from {width: 0}
-            }
-            @keyframes caret{
-             50% { border-color : transparent ;}
-            }
-            .header-p p{
-        margin:0px auto;
-        font-size:10px;
-        width: 19em;
-        border-right: .05em solid;
-        overflow:hidden;
-        white-space:nowrap;
-        animation: typing 3s steps(19) ,caret 1s steps(1) infinite;
-}
-    }
 
 @media screen
     and (max-width:991px) and (min-width:768px){
